@@ -5,3 +5,4 @@ PlainTextOAuth2ConfigClient doesn't set this header and the call fails with the 
 ```
 Missing required header: X-Config-Token
 ```
+https://github.com/pivotal-cf/spring-cloud-services-connector/issues/95
